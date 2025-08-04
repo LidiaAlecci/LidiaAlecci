@@ -6,7 +6,7 @@ My research focuses on **interpersonal variability** — the differences in phys
 
 🔬 Currently a visiting researcher at **Georgia Tech**, funded by the **SNSF Mobility Grant**, collaborating with the [Computational Behavior Analysis Lab]([https://www.cc.gatech.edu/~thomas.ploetz/](https://cba.gatech.edu/)).
 
-🔗 [Visit my portfolio](https://lidiaalecci.github.io)  
+🔗 [Visit my website](https://lidiaalecci.github.io)  
 💼 [LinkedIn](https://www.linkedin.com/in/lidia-alecci)
 📫 [lidia.alecci@usi.ch](mailto:lidia.alecci@usi.ch)
 

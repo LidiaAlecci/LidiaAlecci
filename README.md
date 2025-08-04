@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lidia Alecci
 
-I’m a **Ph.D. student in Informatics** at [Università della Svizzera Italiana (USI)](https://search.usi.ch/en/people/474c6e2db9bcff3409485a83bea50e61/alecci-lidia), working in the [People-Centered Computing Lab](https://pc.inf.usi.ch/) where I specialize in **wearable computing** and its applications for enhancing human wellbeing.
+I’m a **Ph.D. student in Informatics** at [Università della Svizzera Italiana (USI)](https://search.usi.ch/en/people/474c6e2db9bcff3409485a83bea50e61/alecci-lidia), working in the [People-Centered Computing Lab](https://pc.inf.usi.ch/), where I specialize in **wearable computing** and its applications for enhancing human wellbeing.
 
 My research focuses on **interpersonal variability** — the differences in physiological and behavioral patterns across individuals — and how to bridge this challenge by combining generalized models with personalized approaches.
 

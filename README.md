@@ -40,6 +40,7 @@ Wearable Computing · Wellbeing · Personalized Models · Adaptation · Machine 
 
 <details>
 <summary>🧪 Industry & Research Experience</summary>
+  
 - **GeorgiaTech (Atlanta)** – Research visit (2025): Conducting research related to personalization in the context of wellbeing computing
 - **Roche (Basel)** – Internship (2022): Built ML pipeline to predict disease symptoms from wearable data  
 - **Wintech (Padova)** – Internship (2018): Developed web apps with Active Campaign, Hibernate, and DevExtreme

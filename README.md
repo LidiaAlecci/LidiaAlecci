@@ -81,4 +81,4 @@ Wearable Computing · Wellbeing · Personalized Models · Adaptation · Machine 
 ---
 
 > Thanks for visiting my profile!  
-> Check out [my website](https://lidiaalecci.github.io) for more about my projects, research, and design work.
+> Check out [my website](https://lidiaalecci.github.io) for more about my projects and research.
